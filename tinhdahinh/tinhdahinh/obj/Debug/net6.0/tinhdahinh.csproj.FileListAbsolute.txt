@@ -1,0 +1,15 @@
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\bin\Debug\net6.0\tinhdahinh.exe
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\bin\Debug\net6.0\tinhdahinh.deps.json
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\bin\Debug\net6.0\tinhdahinh.runtimeconfig.json
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\bin\Debug\net6.0\tinhdahinh.dll
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\bin\Debug\net6.0\tinhdahinh.pdb
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.csproj.AssemblyReference.cache
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.AssemblyInfoInputs.cache
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.AssemblyInfo.cs
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.dll
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\refint\tinhdahinh.dll
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.pdb
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\tinhdahinh.genruntimeconfig.cache
+C:\Users\Hung\Desktop\TINHDAHINH\tinhdahinh\tinhdahinh\obj\Debug\net6.0\ref\tinhdahinh.dll
